@@ -1,0 +1,12 @@
+{
+  "student_id": "ระบุรหัสนักศึกษาของคุณ",
+  "name": "นพดล เพ็งพิศ",
+  "github_repo": "https://github.com/purezii154/final-FullStack",
+  "backend_base_url": "https://final-fullstack.onrender.com",
+  "frontend_url": "https://comfy-clafoutis-146305.netlify.app",
+  "api": {
+    "health": "https://final-fullstack.onrender.com/api/health",
+    "tasks": "https://final-fullstack.onrender.com/api/tasks"
+  }
+}
+
